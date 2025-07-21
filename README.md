@@ -1,6 +1,3 @@
-Here's an updated version of the GitHub `README.md` that includes the IEEE reference to your paper, using the provided IEEE Xplore link:
-
----
 
 ```markdown
 # 📊 Predicting the Number of Reactions to a LinkedIn Post
