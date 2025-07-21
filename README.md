@@ -1,5 +1,3 @@
-
-```markdown
 # 📊 Predicting the Number of Reactions to a LinkedIn Post
 A Comprehensive Machine Learning Approach  
 **By Jayashree S, Livedha S, Kumaran Hariharan, R. Sanjana, T. Ragupathi**  
@@ -91,49 +89,6 @@ LinkedIn serves as a powerful platform for professional networking and brand eng
 
 ---
 
-## 📎 Project Structure
-
-```
-
-├── data/
-│   └── linkedin\_posts.csv
-├── models/
-│   ├── linear\_regression.py
-│   ├── decision\_tree.py
-│   ├── ensemble\_model.py
-│   ├── svr\_model.py
-│   └── neural\_network.py
-├── notebooks/
-│   └── Exploratory\_Analysis.ipynb
-├── utils/
-│   └── preprocessing.py
-├── results/
-│   └── model\_metrics.csv
-├── README.md
-└── requirements.txt
-
-````
-
----
-
-## 🧠 Insights & Applications
-
-- Engagement on LinkedIn is influenced by **media type**, **company reach**, and **content relevance**.
-- Advanced models outperform linear ones in capturing non-linear behavior in engagement data.
-- Helpful for **marketing strategists**, **social media analysts**, and **brand consultants** to tailor impactful posts.
-
----
-
-## 📬 Contact
-
-- Jayashree S  
-- Livedha S  
-- T. Ragupathi (Assistant Professor)  
-📧 Department of Data Science and Business Systems  
-📍 SRM Institute of Science and Technology, Chennai, India
-
----
-
 ## 🔖 Citation
 
 If you use this research in your work, please cite:
@@ -148,17 +103,3 @@ If you use this research in your work, please cite:
   doi={10.1109/ETCIA60778.2024.10941423},
   url={https://ieeexplore.ieee.org/document/10941423}
 }
-````
-
----
-
-## 📜 License
-
-This repository is for **academic and educational purposes only**. All rights reserved by the authors.
-
-```
-
----
-
-Let me know if you'd like this as a downloadable `.md` file or want a version in **LaTeX**, **presentation slides**, or **poster format** for conference use.
-```
